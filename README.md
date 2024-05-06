@@ -11,8 +11,6 @@
 - 📫 How to reach me: aleksandrahamon@gmail.com
 - I speak English, French and Russian
 
-  [![codewars](https://www.codewars.com/users/Alekshamon/badges/small)](https://www.codewars.com/users/Alekshamon) 
-
 <h3 align="center">My stack 😎 </h3>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -33,6 +31,11 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-Just for fun 🙃
+
+  [![codewars](https://www.codewars.com/users/Alekshamon/badges/small)](https://www.codewars.com/users/Alekshamon) 
+
+  
+
+<h3 align="center">Just for fun 🙃</h3>
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
