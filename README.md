@@ -33,7 +33,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-</div>
+
 
 
   [![codewars](https://www.codewars.com/users/Alekshamon/badges/small)](https://www.codewars.com/users/Alekshamon) 
@@ -45,4 +45,4 @@
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
-
+</div>
