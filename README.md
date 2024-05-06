@@ -3,7 +3,7 @@
 <h3 align="center">Web Developer from France 🇫🇷 </h3>
 
 
-- ⚡ Fun fact: OPEN TO WORK
+- ⚡ OPEN TO WORK
 - 🔭 I’m currently doing an intership as a web developer at linnea.fr
 - 🌱 I’m currently learning PHP, Symfony, UX/UI, REACT, JS
 - 👯 I’m looking to collaborate on new project
