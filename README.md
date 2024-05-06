@@ -11,6 +11,8 @@
 - 📫 How to reach me: aleksandrahamon@gmail.com
 - I speak English, French and Russian
 
+  [![codewars](https://www.codewars.com/users/Alekshamon/badges/small)](https://www.codewars.com/users/Alekshamon) 
+
 <h3 align="center">My stack 😎 </h3>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -30,3 +32,23 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+
+<h3 align="center">My Streaks 😎 </h3>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
+<h3 align="center">My Stats 😎 </h3>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Alekshamon)](https://github.com/Alekshamon/github-profile-trophy)
+
+<h3 align="center">Top Langs 😎 </h3>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alekshamon&layout=compact)](https://github.com/Alekshamon/github-readme-stats)
+
+<h3 align="center">My stats 😎 </h3>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alekshamon)](https://github.com/Alekshamon/github-readme-stats)
+
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042)](https://stackoverflow.com/users/6558042/omid-nikrah) 
+
+Just for fun 🙃
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
