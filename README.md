@@ -1,10 +1,7 @@
 <h1 align="center">Hi there, I'm <a href=# target="_blank">Aleksandra Hamon</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Web Developer from France 🇷🇺</h3>
-<!--
-**Alekshamon/Alekshamon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Web Developer from France 🇫🇷 </h3>
 
-Here are some ideas to get you started:
 
 - ⚡ Fun fact: OPEN TO WORK
 - 🔭 I’m currently working on some personnal projects
