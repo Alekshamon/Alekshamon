@@ -33,19 +33,6 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-
-<h3 align="center">My Streaks 😎 </h3>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
-
-<h3 align="center">My Stats 😎 </h3>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Alekshamon)](https://github.com/Alekshamon/github-profile-trophy)
-
-<h3 align="center">Top Langs 😎 </h3>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alekshamon&layout=compact)](https://github.com/Alekshamon/github-readme-stats)
-
-<h3 align="center">My stats 😎 </h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alekshamon)](https://github.com/Alekshamon/github-readme-stats)
-
 Just for fun 🙃
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
