@@ -40,5 +40,5 @@
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
-<img src="[https://readme-jokes.vercel.app/api](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)" alt="snake" />
+<img src="[[https://readme-jokes.vercel.app/api](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)" alt="snake" />
 
