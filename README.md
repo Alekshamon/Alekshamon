@@ -46,9 +46,6 @@
 <h3 align="center">My stats 😎 </h3>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alekshamon)](https://github.com/Alekshamon/github-readme-stats)
 
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042)](https://stackoverflow.com/users/6558042/omid-nikrah) 
-
 Just for fun 🙃
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
